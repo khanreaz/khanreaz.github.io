@@ -11,14 +11,18 @@ redirect_from:
 
 Education
 ======
-<!-- * Ph.D in Informaton \& Communication Security, Freie Universität Berlin, 2023 (expected) -->
-* M.Sc. in (1) Information \& Communication Technology (2) Innovation \& Entrepreneurship, TU Berlin \& Sorbonne University, Paris, 2015
-* B.Sc. in Electronic \& Telecommunication Engineering, North South University, 2011
+<!-- * Ph.D in Informaton and Communication Security, Freie Universität Berlin, 2023 (expected) -->
+* Master of Science 
+  * Information and Communication Technology 
+  * Innovation and Entrepreneurship
+  
+  jointly from TU Berlin and Sorbonne University, France (2015)
+* Bachelor of Science in Electronic and Telecommunication Engineering, North South University (2011)
 
 Work experience
 ======
 * 08/2016 - Today: Research Assistant
-  * [Cybersecurity \& AI group](https://www.mi.fu-berlin.de/en/inf/groups/ag-comm/index.html), Freie Universität Berlin
+  * [Cybersecurity & AI group](https://www.mi.fu-berlin.de/en/inf/groups/ag-comm/index.html), Freie Universität Berlin
   * worked in the following projects:
     * Sicherheitsarchitektur für eine UWB-basierte IoT Anwendungsplattform  
     * Erweiterung von Physical Layer Security für Ende-zu-Ende Absicherung des IoT 
@@ -28,7 +32,7 @@ Work experience
 * 10/2015 - 07/2016: Student Research Assistant
   * [Department of Mathematics and Computer Science](https://www.mi.fu-berlin.de/en/inf/index.html), Freie Universität Berlin 
 * 04/2015 - 09/2015: Student Research Assistant 
-  * [Wireless Communications \& Networks Group](https://www.hhi.fraunhofer.de/en/departments/wn.html), Fraunhofer Henrich Hertz Institute, Berlin
+  * [Wireless Communications and Networks Group](https://www.hhi.fraunhofer.de/en/departments/wn.html), Fraunhofer Henrich Hertz Institute, Berlin
 * 06/2014 - 08/2014: Engineering Intern
   * [Cardif Innovation Lab](https://www.bnpparibascardif.com/en/cardiflab), BNP Paribas Cardif, Paris  
 
