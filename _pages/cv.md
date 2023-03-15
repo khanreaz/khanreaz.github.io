@@ -12,12 +12,13 @@ redirect_from:
 Education
 ======
 <!-- * Ph.D in Informaton and Communication Security, Freie Universität Berlin, 2023 (expected) -->
-* Master of Science 
+* Master of Science, jointly from TU Berlin and Sorbonne University, France (2015) 
   * Information and Communication Technology 
   * Innovation and Entrepreneurship
   
-  jointly from TU Berlin and Sorbonne University, France (2015)
-* Bachelor of Science in Electronic and Telecommunication Engineering, North South University (2011)
+  
+* Bachelor of Science, North South University (2011)
+  * Electronic and Telecommunication Engineering
 
 Work experience
 ======
