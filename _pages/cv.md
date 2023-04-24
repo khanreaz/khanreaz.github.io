@@ -12,13 +12,14 @@ redirect_from:
 Education
 ======
 <!-- * Ph.D in Informaton and Communication Security, Freie Universität Berlin, 2023 (expected) -->
-* Master of Science, jointly from TU Berlin and Sorbonne University, France (2015) 
+* Master of Science, jointly from TU Berlin and Sorbonne University, France (2016) 
   * Information and Communication Technology 
   * Innovation and Entrepreneurship
   
   
-* Bachelor of Science, North South University (2011)
+* Bachelor of Science, North South University (2012)
   * Electronic and Telecommunication Engineering
+* Exchange semester in the USA (UGRAD Program, U.S Dept. of State) 
 
 Work experience
 ======
@@ -26,7 +27,8 @@ Work experience
   * [Cybersecurity & AI group](https://www.mi.fu-berlin.de/en/inf/groups/ag-comm/index.html), Freie Universität Berlin
   * worked in the following projects:
     * Sicherheitsarchitektur für eine UWB-basierte IoT Anwendungsplattform  
-    * Erweiterung von Physical Layer Security für Ende-zu-Ende Absicherung des IoT 
+    * Erweiterung von Physical Layer Security für Ende-zu-Ende Absicherung des IoT
+    * [ONE5G:E2E-aware Optimizations & advancements for Network Edge of 5G New Radio](https://one5g.eu/)
     * SecureFog: Sichere Fog-Verbindungsschicht für IoT Anwendungen  
     * AutoKEY: Wireless Channel-based Autonomous Key Management for IoT
 
@@ -40,10 +42,10 @@ Work experience
   
 Skills
 ======
-* Technical: Python, MATLAB/Octave, C/C++, Go, Shell, HTML, AWS, Wordpress
-* Essentials: Git, Docker, Confluence, LaTeX, Prezi, Office suite
-* Protocols: IEEE 802.11, 6LowPAN, Zigbee, Bluetooth, Ultra Wide Band, NFC
-* Standards: ISO 27000 family, ISO 30141,30182, NIST SP 800 Series, FIPS 180 Series
+* Technical: Python (Crypto, Anomaly Detection, ML), MATLAB, C/C++, Go, Shell, NS3, UML
+* Essentials: Kali Linux, Git, Docker, LATEX, Prezi, Office suite, Confluence/Sharepoint
+* Protocols: 3GPP/ETSI Rel.14–18, (e)UICC, IEEE 802.11/15.x, NIST SP/FIPS Series
+* Standards: Common Criteria, BSI-BSZ, GSMA NESAS/SAS, ISO-27001, EU-CSA/EECC
 
 <!-- Publications
 ======
