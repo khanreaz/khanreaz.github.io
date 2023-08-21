@@ -11,19 +11,21 @@ redirect_from:
 
 Education
 ======
-<!-- * Ph.D in Informaton and Communication Security, Freie Universität Berlin, 2023 (expected) -->
+* Doctoral candidate at the Freie Universität Berlin, Germany  (expected to graduate in Spring 2024)
+  * Informaton and Communication Security 
+
 * Master of Science, jointly from TU Berlin and Sorbonne University, France (2016) 
   * Information and Communication Technology 
   * Innovation and Entrepreneurship
   
   
-* Bachelor of Science, North South University (2012)
+* Bachelor of Science, North South University, Bangladesh (2012)
   * Electronic and Telecommunication Engineering
 * Exchange semester in the USA (UGRAD Program, U.S Dept. of State) 
 
 Work experience
 ======
-* 08/2016 - Today: Research Assistant
+* 08/2016 - Today: Researcher
   * [Cybersecurity & AI group](https://www.mi.fu-berlin.de/en/inf/groups/ag-comm/index.html), Freie Universität Berlin
   * worked in the following projects:
     * Sicherheitsarchitektur für eine UWB-basierte IoT Anwendungsplattform  
@@ -77,6 +79,7 @@ Scholarships/ Awards
 
 Summer Schools
 ======
+* Systems Security, CISPA Helmholtz Center for Information Security (2023)
 * CanSat: Hands on Satellite Design, TU Berlin (2015)
 * Smart Energy Systems in KTH, Sweden & in KIT, Germany (2014)
 * Intelligent Services for Digital Cities, TrentoRISE, Italy (2013)
@@ -91,6 +94,7 @@ Leadership
 
 Affiliations
 ======
+ * USENIX Student Member (since 2020)
  * IEEE Member (since 2009)
  * European Institute of Innovation and Technology Alumni (since 2015)
  * U.S. Dept. of State's Exchange Alumni (since 2007)
