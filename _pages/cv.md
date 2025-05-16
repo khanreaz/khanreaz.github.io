@@ -11,15 +11,15 @@ redirect_from:
 
 Education
 ======
-* Doctoral candidate at the Freie Universität Berlin, Germany  (expected to graduate in Spring 2024)
+* Dr.rer.nat.  from Freie Universität Berlin, Germany
   * Informaton and Communication Security 
 
-* Master of Science, jointly from TU Berlin and Sorbonne University, France (2016) 
+* M.Sc. jointly from TU Berlin and Sorbonne University, France 
   * Information and Communication Technology 
   * Innovation and Entrepreneurship
   
   
-* Bachelor of Science, North South University, Bangladesh (2012)
+* B.Sc. from North South University, Bangladesh 
   * Electronic and Telecommunication Engineering
 * Exchange semester in the USA (UGRAD Program, U.S Dept. of State) 
 
