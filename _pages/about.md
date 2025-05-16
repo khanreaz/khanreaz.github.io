@@ -8,8 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-I am a doctoral researcher in the Cybersecurity and AI group at Freie University Berlin. My research interests include Post-Quantum Privacy and Security, the Internet of Things (IoT), Next Generation Mobile Networks, and Ontology. I pursued a joint Master’s degree in Information and Communications Technology and Innovation and Entrepreneurship from Sorbonne University in France and Technische Universität Berlin in Germany.
+I am a cybersecurity architect and researcher with a PhD (Dr.rer.nat.) in Computer Science from   Freie Universität Berlin. My work focuses on the intersection of secure system design, digital identity infrastructure, and regulatory compliance—drawing on expertise in post-quantum security, IoT, and next-generation wireless networks.
 
-Throughout my career, I had the opportunity to work with some of the most renowned organizations in the field. In between my studies, I worked at the Fraunhofer Heinrich Hertz Institute in the Wireless Communications research group. I also worked at the Cardif Innovation Lab of BNP Paribas Cardif. Additionally, I worked at Grameenphone Ltd., a subsidiary of the Telenor Group in Norway.
+My academic path includes a joint master’s degree in ICT Innovation from Sorbonne Université and Technische Universität Berlin, where I combined deep technical training with entrepreneurial thinking. Throughout my career, I’ve worked across diverse innovation ecosystems—including Fraunhofer Heinrich Hertz Institute, BNP Paribas Cardif’s Innovation Lab. I’ve led technical work in European cybersecurity projects like AUTOKEY, SecureFog, and UltraSec, contributing to advancements in privacy-preserving authentication, secure device onboarding, and post-quantum readiness.
 
-I enjoy reading and writing over a cup of good Americano with two shots. From time to time, I write short essays and stories. In 2016, I published  my first book which is a compilation of travel experiences.
+I actively contribute to EU-level working groups on 5G and 6G security and specialize in architecting compliant, vendor-neutral, and future-proof cybersecurity systems. My technical focus areas include  verifiable credentials, attribute-based cryptography, and physical-layer security.
+
+Outside of research and architecture, I enjoy reading and writing—preferably with a strong Americano (two shots). In 2016, I published my first book, a personal travelogue capturing stories from across borders and networks.
