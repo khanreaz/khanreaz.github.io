@@ -12,9 +12,9 @@ redirect_from:
 Education
 ======
 * Dr.rer.nat.  from Freie Universität Berlin, Germany
-  * Informaton and Communication Security 
+  * Information and Communication Security 
 
-* M.Sc. jointly from TU Berlin and Sorbonne University, France 
+* M.Sc. jointly from Technische Universität Berlin and Sorbonne Université, France 
   * Information and Communication Technology 
   * Innovation and Entrepreneurship
   
@@ -30,24 +30,25 @@ Work experience
   * worked in the following projects:
     * Sicherheitsarchitektur für eine UWB-basierte IoT Anwendungsplattform  
     * Erweiterung von Physical Layer Security für Ende-zu-Ende Absicherung des IoT
-    * [ONE5G:E2E-aware Optimizations & advancements for Network Edge of 5G New Radio](https://one5g.eu/)
+    * ONE5G:E2E-aware Optimizations & advancements for Network Edge of 5G New Radio
     * SecureFog: Sichere Fog-Verbindungsschicht für IoT Anwendungen  
     * AutoKEY: Wireless Channel-based Autonomous Key Management for IoT
 
 * 10/2015 - 07/2016: Student Research Assistant
-  * [Department of Mathematics and Computer Science](https://www.mi.fu-berlin.de/en/inf/index.html), Freie Universität Berlin 
+  * Department of Mathematics and Computer Science, Freie Universität Berlin 
 * 04/2015 - 09/2015: Student Research Assistant 
-  * [Wireless Communications and Networks Group](https://www.hhi.fraunhofer.de/en/departments/wn.html), Fraunhofer Henrich Hertz Institute, Berlin
+  * Wireless Communications and Networks Group, Fraunhofer Henrich Hertz Institute, Berlin
 * 06/2014 - 08/2014: Engineering Intern
-  * [Cardif Innovation Lab](https://www.bnpparibascardif.com/en/cardiflab), BNP Paribas Cardif, Paris  
+  * Cardif Innovation Lab, BNP Paribas Cardif, Paris  
 
   
 Skills
 ======
-* Technical: Python (Crypto, Anomaly Detection, ML), MATLAB, C/C++, Go, Shell, NS3, UML
-* Essentials: Kali Linux, Git, Docker, LATEX, Prezi, Office suite, Confluence/Sharepoint
-* Protocols: 3GPP/ETSI Rel.14–18, (e)UICC, IEEE 802.11/15.x, NIST SP/FIPS Series
-* Standards: Common Criteria, BSI-BSZ, GSMA NESAS/SAS, ISO-27001, EU-CSA/EECC
+* Frameworks: NIST Cybersecurity Framework, NIST RMF, ISO 27001, BSI IT-Grundschutz, eIDAS 2.0, NIS2
+* Tools: Wireshark, Azure Sentinel, Hashcat, GNU Radio, KNIME, RapidMiner, Dataiku
+* Languages: Python, MATLAB, C/C++, Shell, Javascript, HTML, SQL
+* Systems: Docker, Git, SharePoint, AWS, Azure, GCP, Kali Linux, macOS, Windows
+* Specialized Topics: PQC Migration, Zero Trust, Self-Sovereign Identity (SSI), OpenID Connect, Digital Identity Wallets, Attribute/Role-Based Access Control
 
 <!-- Publications
 ======
@@ -94,7 +95,8 @@ Leadership
 
 Affiliations
 ======
- * USENIX Student Member (since 2020)
- * IEEE Member (since 2009)
- * European Institute of Innovation and Technology Alumni (since 2015)
- * U.S. Dept. of State's Exchange Alumni (since 2007)
+ * MIT Professional Education Alumni
+ * USENIX  Member 
+ * IEEE Member 
+ * European Institute of Innovation and Technology Alumni 
+ * U.S. Dept. of State's Exchange Alumni 
